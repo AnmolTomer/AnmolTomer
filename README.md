@@ -33,7 +33,7 @@ I am dedicated to telling stories with Data. I am experienced in Machine/Deep Le
 - Codeforces - [Anmol_Tomer](https://www.codeforces.com/profile/Anmol_Tomer)
 - Hackerrank - [anmol_tomer](https://www.hackerrank.com/anmol_tomer)
 
-![Dushyant's github stats](https://github-readme-stats.vercel.app/api?username=AnmolTomer&show_icons=true&title_color=00ff41&icon_color=82eefd&text_color=afafaf&bg_color=151515)
+![Anmol's github stats](https://github-readme-stats.vercel.app/api?username=AnmolTomer&show_icons=true&title_color=00ff41&icon_color=82eefd&text_color=afafaf&bg_color=151515)
 
 Cheers,<br />
 Anmol<br />
