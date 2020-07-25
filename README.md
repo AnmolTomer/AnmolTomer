@@ -13,13 +13,15 @@
 <br />
 <br />
 
+- This is the place where I opensource stuff and break things :rofl:
+
 - 🔭 I’m currently focusing on Competitive Programming.
 - 🌱 I’m currently learning Data Structures and Algorithms.
 - 👯 I’m looking to collaborate on Machine Learning and Web Development Projects.
 - 🤔 I’m looking for help with unified app to run automated testcases on a given Competitive Programming problem from popular platforms like Codeforces, CodeChef, TopCoder, AtCoder, SPOJ etc.
 - 💬 Ask me about Bash, Vim, Docker, NodeJS, Deep Learning, Computer Vision, Data Visualisation, Data Archival.
 - 📫 How to reach me: https://anmoltomer.github.io/
-- 😄 Pronouns: He/Him
+- 😄 Pronouns: He/Him/His
 
 I am dedicated to telling stories with Data. I am experienced in Machine/Deep Learning, Computer Vision and Full Stack Web Development.I am interested in algorithmic competitions and learning about new technologies and frameworks. In my spare time, I love to take part in competitive programming contests held on various online judges like Codeforces, Codechef etc.
 
@@ -33,6 +35,7 @@ I am dedicated to telling stories with Data. I am experienced in Machine/Deep Le
 - Codeforces - [Anmol_Tomer](https://www.codeforces.com/profile/Anmol_Tomer)
 - Hackerrank - [anmol_tomer](https://www.hackerrank.com/anmol_tomer)
 
+📊 **This week I spent my time on**
 <!--START_SECTION:waka-->
 ```text
 Other    16 hrs 54 mins  █████████████████░░░░░░░░   70.90 % 
