@@ -34,6 +34,13 @@ I am dedicated to telling stories with Data. I am experienced in Machine/Deep Le
 - Hackerrank - [anmol_tomer](https://www.hackerrank.com/anmol_tomer)
 
 <!--START_SECTION:waka-->
+```text
+Other    16 hrs 54 mins  █████████████████░░░░░░░░   70.90 % 
+C++      4 hrs 20 mins   ████░░░░░░░░░░░░░░░░░░░░░   18.19 % 
+VimL     1 hr 37 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   06.84 % 
+Python   44 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   03.13 % 
+Text     9 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.69 %
+```
 <!--END_SECTION:waka-->
 
 ![Anmol's github stats](https://github-readme-stats.vercel.app/api?username=AnmolTomer&show_icons=true&title_color=00ff41&icon_color=82eefd&text_color=afafaf&bg_color=151515)
