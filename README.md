@@ -44,6 +44,30 @@ Bash      2 hrs 38 mins   ██░░░░░░░░░░░░░░░░
 VimL      2 hrs 3 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   06.45 % 
 Arduino   58 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   03.05 %
 ```
+<div align="center">
+<a href="https://github.com/AnmolTomer">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnmolTomer&theme=dark&hide_langs_below=1" />
+</a>
+  </div>
+  
+ <div align="left">
+<a href="https://github.com/AnmolTomer">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=AnmolTomer&show_icons=true&theme=dracula&line_height=27" alt="Anmol's github stats"/>
+</a>
+  </div>
+  <div align="left">
+<a href="https://github.com/AnmolTomer/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AnmolTomer&repo=ReadMeTemplate&theme=dark" />
+</a>
+  </div>
+ 
+   <div align="left">
+<a href="https://github.com/AnmolTomer/ejs_projects">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AnmolTomer&repo=ejs_projects&theme=dark" />
+</a>
+</div>
+<div align="center">
+
 <!--END_SECTION:waka-->
 
 ![Anmol's github stats](https://github-readme-stats.vercel.app/api?username=AnmolTomer&show_icons=true&title_color=00ff41&icon_color=82eefd&text_color=afafaf&bg_color=151515)
