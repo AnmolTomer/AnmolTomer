@@ -9,6 +9,10 @@
   <img align="left" alt="Anmol Tomer - Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg"/>
 </a>
 
+<a href="https://anmoltomer.github.io/">
+  <img align="left" alt="Portfolio" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/nucleo.svg"/>
+</a>
+
 <img src="https://komarev.com/ghpvc/?username=AnmolTomer" alt="AnmolTomer"/>
 <br />
 <br />
