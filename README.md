@@ -57,7 +57,8 @@ I am dedicated to telling stories with Data. I am experienced in Machine/Deep Le
 📊 **This week I spent my time on**
 <!--START_SECTION:waka-->
 ```text
-Text     26 mins         ████████████████████████▒   97.57 % 
+Java     48 mins         ████████████████▒░░░░░░░░   64.76 % 
+Text     26 mins         ████████▓░░░░░░░░░░░░░░░░   34.87 % 
 ```
 <!--END_SECTION:waka-->
 
