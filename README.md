@@ -52,7 +52,7 @@ I am dedicated to telling stories with Data. I am experienced in Machine/Deep Le
 **🔗Links:**
 
 - LinkedIn - [anmol-tomer](https://www.linkedin.com/in/anmol-tomer/)
-- CList - [Anmol_Tomer](https://clist.by/coder/anmoltomer/)
+- CList - [AnmolTomer](https://clist.by/coder/anmoltomer/)
 - Hackerrank - [anmol_tomer](https://www.hackerrank.com/anmol_tomer)
 
 <!-- 📊 **This week I spent my time on** 
