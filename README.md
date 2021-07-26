@@ -49,9 +49,10 @@ I am dedicated to telling stories with Data. I am experienced in Machine/Deep Le
 - Competitive Programming - CPP, Python
 - Web Development - Javascript, MongoDb, Express, NodeJS
 
-**Competitive Programming Profile:**
-- Codechef - [anmol_tomer_cc](https://www.codechef.com/users/anmol_tomer_cc)
-- Codeforces - [Anmol_Tomer](https://www.codeforces.com/profile/Anmol_Tomer)
+**🔗Links:**
+
+- LinkedIn - [anmol-tomer](https://www.linkedin.com/in/anmol-tomer/)
+- CList - [Anmol_Tomer](https://clist.by/coder/anmoltomer/)
 - Hackerrank - [anmol_tomer](https://www.hackerrank.com/anmol_tomer)
 
 <!-- 📊 **This week I spent my time on** 
