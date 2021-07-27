@@ -2,6 +2,11 @@
 <a href="https://www.linkedin.com/in/anmol-tomer/">
   <img align="left" alt="Anmol Tomer - LinkedIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>
 </a>
+
+<a href="https://twitter.com/anmol_tomer_cc">
+  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+
 <a href="mailto:anmol3540@gmail.com">
   <img align="left" alt="Anmol Tomer - Mail" width="26px" src="https://img.icons8.com/ios-glyphs/30/000000/new-post.png"/>
 </a>
@@ -17,7 +22,7 @@
 <br />
 <br />
 
-- This is the place where I opensource stuff and break things :rofl:
+## About Me 🚀
 
 - 🔭 I’m currently focusing on Competitive Programming.
 - 🌱 I’m currently learning Data Structures and Algorithms.
