@@ -31,14 +31,14 @@ I am dedicated to telling stories with Data. I am experienced in Machine/Deep Le
 
 **Languages and Tools:**  
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"></code>
+<!-- <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code> -->
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
+<!-- <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"></code> -->
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jquery/jquery.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png"></code>
@@ -64,7 +64,31 @@ I am dedicated to telling stories with Data. I am experienced in Machine/Deep Le
 </a>
 </div>
 -->
-![Anmol's github stats](https://github-readme-stats.vercel.app/api?username=AnmolTomer&show_icons=true&title_color=00ff41&icon_color=82eefd&text_color=afafaf&bg_color=151515)
+<!-- ![Anmol's github stats](https://github-readme-stats.vercel.app/api?username=AnmolTomer&show_icons=true&title_color=00ff41&icon_color=82eefd&text_color=afafaf&bg_color=151515) -->
+
+## 📈 < Statistics />
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=AnmolTomer&theme=darkhub">
+<br><br>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AnmolTomer&theme=merko">
+</p>
+<table>
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=AnmolTomer&theme=chartreuse-dark&show_icons=true&include_all_commits=true&count_private=true"  display=block width=100% height=auto alt="1"></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnmolTomer&theme=chartreuse-dark&layout=compact&hide=Jupyter%20Notebook"  display=block height=190 align="center" alt="2"></td>
+   </tr>
+</table>
+
+<table>
+  <tr>
+    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AnmolTomer&theme=solarized_dark"  display=block width=100% height=auto alt="1"></td>
+   </tr>
+   <tr>
+      <td><img src="https://activity-graph.herokuapp.com/graph?username=AnmolTomer&bg_color=073642&color=1ced8c&line=006400&point=27d6a7&area=true" display=block width=100% height=auto alt="2"></td>
+  </td>
+  </tr>
+</table>
+
 
 Cheers,<br />
 Anmol<br />
