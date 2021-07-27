@@ -20,8 +20,6 @@
 
 <img src="https://komarev.com/ghpvc/?username=AnmolTomer" alt="AnmolTomer"/>
 <br />
-<br />
-
 ## About Me 🚀
 
 - 🔭 I’m currently focusing on Competitive Programming.
