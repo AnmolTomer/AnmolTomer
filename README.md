@@ -92,7 +92,16 @@ I am dedicated to telling stories with Data. I am experienced in Machine/Deep Le
    </tr>
 </table>
 
+<!--  CUSTOM FROM PROFILE SUMMARY CARD-->
 <table>
+  <tr>
+    <td><img src="https://raw.githubusercontent.com/AnmolTomer/ProfileSummaryCard/master/profile-summary-card-output/github_dark/1-repos-per-language.svg"  display=block width=100% height=240 alt="1"></td>
+    <td><img src="https://raw.githubusercontent.com/AnmolTomer/ProfileSummaryCard/master/profile-summary-card-output/github_dark/2-most-commit-language.svg"  display=block height=240 width=100% align="center" alt="2"></td>
+   </tr>
+</table>
+<!--  CUSTOM FROM PROFILE SUMMARY CARD ENDS-->
+
+<table cellpadding="8" cellspacing="8">
   <tr>
     <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AnmolTomer&theme=solarized_dark"  display=block width=100% height=auto alt="1"></td>
    </tr>
