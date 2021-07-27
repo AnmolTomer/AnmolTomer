@@ -68,16 +68,12 @@ I am dedicated to telling stories with Data. I am experienced in Machine/Deep Le
 - CList - [AnmolTomer](https://clist.by/coder/anmoltomer/)
 - Hackerrank - [anmol_tomer](https://www.hackerrank.com/anmol_tomer)
 
-<!-- 📊 **This week I spent my time on** 
+## 📊 **This week I spent my time on** 
 
-<!--  
-<div align="left">
-<a href="https://github.com/AnmolTomer">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnmolTomer&theme=dark&hide_langs_below=1" />
-</a>
-</div>
--->
-<!-- ![Anmol's github stats](https://github-readme-stats.vercel.app/api?username=AnmolTomer&show_icons=true&title_color=00ff41&icon_color=82eefd&text_color=afafaf&bg_color=151515) -->
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->
+
 
 ## 📈 Statistics
 <p align="center">
