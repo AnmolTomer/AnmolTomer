@@ -1,16 +1,16 @@
-# Hi there, I'm Anmol.👋
+## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Anmol!](https://anmoltomer.github.io/) 
 <a href="https://www.linkedin.com/in/anmol-tomer/">
-  <img align="left" alt="Anmol Tomer - LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>
+  <img align="left" alt="Anmol Tomer - LinkedIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>
 </a>
 <a href="mailto:anmol3540@gmail.com">
-  <img align="left" alt="Anmol Tomer - Mail" width="22px" src="https://img.icons8.com/ios-glyphs/30/000000/new-post.png"/>
+  <img align="left" alt="Anmol Tomer - Mail" width="26px" src="https://img.icons8.com/ios-glyphs/30/000000/new-post.png"/>
 </a>
-<a href="https://www.youtube.com/channel/UCApphaxwYQL_-SFdlAlaIcQ">
-  <img align="left" alt="Anmol Tomer - Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg"/>
+<a href="https://www.youtube.com/c/CosmicCommander">
+  <img align="left" alt="Anmol Tomer - Youtube" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg"/>
 </a>
 
 <a href="https://anmoltomer.github.io/">
-  <img align="left" alt="Portfolio" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/nucleo.svg"/>
+  <img align="left" alt="Portfolio" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/nucleo.svg"/>
 </a>
 
 <img src="https://komarev.com/ghpvc/?username=AnmolTomer" alt="AnmolTomer"/>
@@ -27,9 +27,9 @@
 - 📫 How to reach me: https://anmoltomer.github.io/
 - 😄 Pronouns: He/Him/His
 
-I am dedicated to telling stories with Data. I am experienced in Machine/Deep Learning, Computer Vision and Full Stack Web Development.I am interested in algorithmic competitions and learning about new technologies and frameworks. In my spare time, I love to take part in competitive programming contests held on various online judges like Codeforces, Codechef etc.
+I am dedicated to telling stories with Data. I am experienced in Machine/Deep Learning, Computer Vision and Full Stack Web Development.I am interested in algorithmic competitions and learning about new technologies and frameworks. In my spare time, I love to take part in competitive programming contests held on various online judges like Codeforces, AtCoder etc.
 
-**Languages and Tools:**  
+## **Languages and Tools:**  
 
 <!-- <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code> -->
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
@@ -49,7 +49,7 @@ I am dedicated to telling stories with Data. I am experienced in Machine/Deep Le
 - Competitive Programming - CPP, Python
 - Web Development - Javascript, MongoDb, Express, NodeJS
 
-**🔗Links:**
+## **Interview Prep and Competitive Programming Profile Links:**
 
 - LinkedIn - [anmol-tomer](https://www.linkedin.com/in/anmol-tomer/)
 - CList - [AnmolTomer](https://clist.by/coder/anmoltomer/)
@@ -66,7 +66,7 @@ I am dedicated to telling stories with Data. I am experienced in Machine/Deep Le
 -->
 <!-- ![Anmol's github stats](https://github-readme-stats.vercel.app/api?username=AnmolTomer&show_icons=true&title_color=00ff41&icon_color=82eefd&text_color=afafaf&bg_color=151515) -->
 
-## 📈 < Statistics />
+## 📈 Statistics
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=AnmolTomer&theme=darkhub">
 <br><br>
