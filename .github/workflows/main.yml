@@ -1,4 +1,4 @@
-name: Waka Readme
+name: Waka Preferred
 
 on:
   schedule:
@@ -16,6 +16,7 @@ jobs:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           SHOW_PROFILE_VIEWS: "False"
           SHOW_LINES_OF_CODE: "False"
+          BLOCKS: ⣀⣄⣤⣦⣶⣷⣿
 # name: Waka Readme
 
 # on:
