@@ -73,9 +73,9 @@ I am dedicated to telling stories with Data. I am experienced in Machine/Deep Le
 <!--START_SECTION:waka-->
 **🐱 My Github Data** 
 
-> 🏆 485 Contributions in the Year 2021
+> 🏆 509 Contributions in the Year 2021
  > 
-> 📦 901.3 kB Used in Github's Storage 
+> 📦 901.9 kB Used in Github's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -137,11 +137,11 @@ Windows                  9 hrs 13 mins       ███████████�
 **I Mostly Code in Python** 
 
 ```text
-Python                   11 repos            ████░░░░░░░░░░░░░░░░░░░░░   19.3% 
-C++                      8 repos             ███░░░░░░░░░░░░░░░░░░░░░░   14.04% 
-Jupyter Notebook         7 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.28% 
-JavaScript               7 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.28% 
-CSS                      5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.77%
+Python                   11 repos            ████░░░░░░░░░░░░░░░░░░░░░   18.97% 
+C++                      8 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.79% 
+Jupyter Notebook         7 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.07% 
+JavaScript               7 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.07% 
+HTML                     6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.34%
 
 ```
 
@@ -151,7 +151,7 @@ CSS                      5 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/AnmolTomer/AnmolTomer/master/charts/bar_graph.png) 
 
 
- Last Updated on 26/08/2021
+ Last Updated on 27/08/2021
 <!--END_SECTION:waka-->
 
 
