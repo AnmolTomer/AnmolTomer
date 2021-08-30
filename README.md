@@ -73,9 +73,9 @@ I am dedicated to telling stories with Data. I am experienced in Machine/Deep Le
 <!--START_SECTION:waka-->
 **🐱 My Github Data** 
 
-> 🏆 517 Contributions in the Year 2021
+> 🏆 524 Contributions in the Year 2021
  > 
-> 📦 902.0 kB Used in Github's Storage 
+> 📦 902.6 kB Used in Github's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -87,16 +87,16 @@ I am dedicated to telling stories with Data. I am experienced in Machine/Deep Le
 
 ```text
 🌞 Morning    177 commits    ██████░░░░░░░░░░░░░░░░░░░   24.15% 
-🌆 Daytime    190 commits    ██████░░░░░░░░░░░░░░░░░░░   25.92% 
+🌆 Daytime    191 commits    ██████░░░░░░░░░░░░░░░░░░░   26.06% 
 🌃 Evening    161 commits    █████░░░░░░░░░░░░░░░░░░░░   21.96% 
-🌙 Night      205 commits    ███████░░░░░░░░░░░░░░░░░░   27.97%
+🌙 Night      204 commits    ███████░░░░░░░░░░░░░░░░░░   27.83%
 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday       65 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.87% 
-Tuesday      151 commits    █████░░░░░░░░░░░░░░░░░░░░   20.6% 
+Monday       66 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.0% 
+Tuesday      150 commits    █████░░░░░░░░░░░░░░░░░░░░   20.46% 
 Wednesday    116 commits    ████░░░░░░░░░░░░░░░░░░░░░   15.83% 
 Thursday     107 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.6% 
 Friday       110 commits    ███░░░░░░░░░░░░░░░░░░░░░░   15.01% 
@@ -151,7 +151,7 @@ HTML                     6 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/AnmolTomer/AnmolTomer/master/charts/bar_graph.png) 
 
 
- Last Updated on 29/08/2021
+ Last Updated on 30/08/2021
 <!--END_SECTION:waka-->
 
 
