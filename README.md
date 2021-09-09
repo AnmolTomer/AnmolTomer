@@ -73,9 +73,9 @@ I am dedicated to telling stories with Data. I am experienced in Machine/Deep Le
 <!--START_SECTION:waka-->
 **🐱 My Github Data** 
 
-> 🏆 559 Contributions in the Year 2021
+> 🏆 561 Contributions in the Year 2021
  > 
-> 📦 908.9 kB Used in Github's Storage 
+> 📦 909.0 kB Used in Github's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -151,7 +151,7 @@ HTML                     6 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/AnmolTomer/AnmolTomer/master/charts/bar_graph.png) 
 
 
- Last Updated on 08/09/2021
+ Last Updated on 09/09/2021
 <!--END_SECTION:waka-->
 
 
