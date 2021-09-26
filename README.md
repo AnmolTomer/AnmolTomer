@@ -65,6 +65,7 @@ I am dedicated to telling stories with Data. I am experienced in Machine/Deep Le
 ## **Online Profile Links:**
 
 - LinkedIn - [anmol-tomer](https://www.linkedin.com/in/anmol-tomer/)
+- BinarySearch - [anmoltomer](https://binarysearch.com/@/anmoltomer)
 - CList - [AnmolTomer](https://clist.by/coder/anmoltomer/)
 - Hackerrank - [anmol_tomer](https://www.hackerrank.com/anmol_tomer)
 
