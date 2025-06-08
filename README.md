@@ -72,7 +72,7 @@
 
 - LinkedIn - [anmol-tomer](https://www.linkedin.com/in/anmol-tomer/)
 - Hackerrank - [anmol_tomer](https://www.hackerrank.com/anmol_tomer)
-- [Twitter](https://twitter.com/anmol_tomer_cc)
+- Twitter/X - [anmol_tomer_cc](https://x.com/anmol_tomer_cc)
 
 
 ## 📈 Statistics
@@ -97,15 +97,6 @@
 </table>
 <!--  CUSTOM FROM PROFILE SUMMARY CARD ENDS-->
 
-<table cellpadding="8" cellspacing="8">
-  <tr>
-    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AnmolTomer&theme=solarized_dark"  display=block width=100% height=auto alt="1"></td>
-   </tr>
-   <tr>
-      <td><img src="https://activity-graph.herokuapp.com/graph?username=AnmolTomer&bg_color=073642&color=1ced8c&line=006400&point=27d6a7&area=true" display=block width=100% height=auto alt="2"></td>
-  </td>
-  </tr>
-</table>
 
 
 Cheers,<br />
